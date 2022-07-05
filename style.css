@@ -56,7 +56,10 @@
 
 .about-pra {
     width: 20%;
-    padding-top: 400px;
+    padding-top: 300px;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 200px;
 }
 
 .image-size {
@@ -68,6 +71,10 @@
 #contact-me {
     margin: 10px 0px;
     padding-top: 10px;
+}
+.recipies-head{
+    text-align: center;
+    margin: 30px;
 }
 .recipies{
     text-align: center;
@@ -96,7 +103,35 @@
 }
 .item-head{
     padding-left: 3%;
+    
 }
 .last-div{
     display: flex;
+    justify-content: space-evenly;
+    box-shadow: 5px 5px 30px grey;
+    width: 86%;
+    margin: 0% 7% 0% 7%;
+    border-radius: 10px;
+}
+.last-div h1{
+    text-align: center;
+}
+.last-div p {
+    text-align: center;
+    font-size: small;
+}
+footer{
+    background-color: black;
+    height: 100px;
+    margin-top: 40px;
+    padding: 10px;
+}
+footer h3{
+    color: skyblue;
+    text-align: center;
+}
+footer p{
+    text-align: center;
+    color: white;
+    font-size: small;
 }
