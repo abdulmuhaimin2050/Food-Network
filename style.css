@@ -1,0 +1,102 @@
+.body {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.bennar-section {
+    display: flex;
+}
+
+.title-div {
+    width: 50%;
+    padding: 40px 50px;
+}
+
+.title-div h1 {
+    font-size: 40px;
+    margin: 5px;
+}
+
+#top-line {
+    margin-top: 50px;
+}
+
+#top-line span {
+    color: rgb(80, 80, 255)
+}
+
+.head-pragraph {
+    padding: 10px;
+}
+
+.order-button {
+    text-decoration: none;
+    background-image: linear-gradient(rgb(67, 67, 241), lightblue);
+    padding: 10px 20px;
+    border-radius: 50px;
+    color: white;
+}
+
+.title-img {
+    width: 50%;
+}
+
+.head-img {
+    width: 80%;
+}
+
+.about-section {
+    display: flex;
+    background-image: url(images/Frame1.jpg);
+    background-size: cover;
+}
+
+.about-image {
+    width: 50%;
+}
+
+.about-pra {
+    width: 20%;
+    padding-top: 400px;
+}
+
+.image-size {
+    width: 50%;
+    padding-top: 30%;
+    padding-left: 15%;
+}
+
+#contact-me {
+    margin: 10px 0px;
+    padding-top: 10px;
+}
+.recipies{
+    text-align: center;
+    margin:5px 50px;
+}
+.foter-section{
+    display: flex;
+    margin: 5px 20px;
+}
+.foter-div{
+    width: 80%;
+    margin: 5%;
+    border-radius: 20px;
+    box-shadow: 10px 10px 20px grey;
+}
+.foter-cnt{
+    width: 94%;
+    padding:3%;
+}
+.foter-img{
+    width: 100%;
+}
+.item-dis{
+    text-align : justify;
+    padding: 0% 3% 6% 3%;
+}
+.item-head{
+    padding-left: 3%;
+}
+.last-div{
+    display: flex;
+}
